@@ -29,4 +29,4 @@
 </div>
 
 
-## Yeah you heard that right, i code from time to time and i'm fluent in python, cause i love doing random projects out of the box, well you've met Aymen, that's me !
+## Yeah you heard that right, i code from time to time and i'm fluent in python & C, cause i love doing random projects out of the box, well you've met Aymen, that's me !
