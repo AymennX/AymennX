@@ -27,3 +27,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
   </a>
 </div>
+
+
+## Yeah you heard that right, i code from time to time and i'm fluent in python, cause i love doing random projects out of the box, well you've met Aymen, that's me !
