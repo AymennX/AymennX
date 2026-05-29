@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hey, I'm Aymen "somehow i code" passionate on Game Dev & Design and Mainly as Product Designer</h1>
+<h1 align="center">Hey, I'm Aymen, Passionate about Game Development and Product Design</h1>
 
 ###
 
