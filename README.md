@@ -12,7 +12,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a Product Designer and solo game developer who loves building digital experiences and experimenting with new ideas. \
-💻 &nbsp; I'm currently working on personal projects and apps, including game concepts and software under my creative brand **Aetheric Forge**.\
+💻 &nbsp; I'm currently working on personal projects and apps, including game concepts and software under my creative brand **Aetherics.**.\
 🎓 &nbsp; I'm a self-taught Product Designer with 3.5 years of experience, focused on UX thinking, interface design, and prototyping..\
 🌱 &nbsp; I'm currently learning and exploring more about product design systems, game design, and modern development tools.\
 ✍️ &nbsp; In my free time, I enjoy designing UI concepts, building prototypes in Figma, creating games.\
